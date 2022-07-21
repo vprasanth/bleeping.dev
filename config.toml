@@ -1,0 +1,38 @@
+baseURL = 'https://bleeping.dev/'
+languageCode = 'en-us'
+title = 'bleeping development'
+theme = "anubis"
+paginate = 10
+
+enableGitInfo = true
+
+[[menu.main]]
+identifier = "archive"
+name = "Archive"
+title = "Archive"
+url = "/posts/"
+weight = 0
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+title = "About"
+url = "/about/"
+weight = 0
+
+
+[params]
+author = "Prasanth Vaaheeswaran"
+email = "prasanthv@icloud.com"
+style = "auto"
+description = "a place"
+copyCodeButton = true
+paginationSinglePost = true
+readMore = false
+readNextPosts = 2
+rssAsSocialIcon = true
+
+[[params.social]]
+  id = "github"
+  name = "vprasanth"
+
