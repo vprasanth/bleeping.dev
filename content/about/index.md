@@ -22,7 +22,7 @@ out!](https://clear.co)). Prior to that I worked with some amazing folks at
 remotely from about 40 minutes (_on a good day_) outside of [Toronto,
 Canada](https://en.wikipedia.org/wiki/Toronto).
 
-My background is in software (cloud) and I've been fortunate enough to work in
+My background is in software (web) and I've been fortunate enough to work in
 many different parts of the stack.
 
 ### Goals for this site
